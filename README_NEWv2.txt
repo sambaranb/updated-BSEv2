@@ -7,6 +7,8 @@ sambaran.banerjee@gmail.com
 
 Including suggestions from Dr. Aleksandra Olejak, Max Planck Institut fuer Astrophysik (MPA), Garching
 aolejak@MPA-Garching.mpg.de
+
+and Prof. Krzysztof (Chris) Belczynski
 ---------------------------------------------------
 
 New ingredients are being added to make SSE/BSE at par with
