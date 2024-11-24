@@ -111,6 +111,17 @@ hgflag
 >=0: common envelope evolution is allowed for Hertzsprung-gap donors (BSE default; 'optimistic CE')  
 < 0: CE evolution is disallowed for HG-gap donors ('pessimistic CE')
 
+Notes:
+
+The parameters wconst, edflag, and wrflag (see above) are available in SSE as well, see the read statements
+in 'sse.f'. With wrflag enabled (see above) in SSE, it is possible to experiment with input
+highly spinning HeMS stars (stellar type 7) that will potentially evolve into 'spun-up' BHs.
+
+The summary output in BSE now also prints the angular frequencies (the 'opsin' values) for both
+members. However, when a member is a BH, its Kerr parameter (dimensionless spin) is printed
+instead. The same goes for the detailed evolutionary data output.  
+
+
 Please report any bugs. Suggestions are most welcome. 
 
 Have fun!
